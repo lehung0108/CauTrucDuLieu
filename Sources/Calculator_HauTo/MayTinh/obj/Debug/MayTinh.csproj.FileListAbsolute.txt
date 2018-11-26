@@ -1,0 +1,41 @@
+C:\Users\Home\Desktop\13520473_NguyenThanhLuan_BaiThiTH\MayTinh\bin\Debug\MayTinh.exe.config
+C:\Users\Home\Desktop\13520473_NguyenThanhLuan_BaiThiTH\MayTinh\bin\Debug\MayTinh.exe
+C:\Users\Home\Desktop\13520473_NguyenThanhLuan_BaiThiTH\MayTinh\bin\Debug\MayTinh.pdb
+C:\Users\Home\Desktop\13520473_NguyenThanhLuan_BaiThiTH\MayTinh\obj\Debug\MayTinh.csprojResolveAssemblyReference.cache
+C:\Users\Home\Desktop\13520473_NguyenThanhLuan_BaiThiTH\MayTinh\obj\Debug\MayTinh.Form1.resources
+C:\Users\Home\Desktop\13520473_NguyenThanhLuan_BaiThiTH\MayTinh\obj\Debug\MayTinh.Properties.Resources.resources
+C:\Users\Home\Desktop\13520473_NguyenThanhLuan_BaiThiTH\MayTinh\obj\Debug\MayTinh.csproj.GenerateResource.Cache
+C:\Users\Home\Desktop\13520473_NguyenThanhLuan_BaiThiTH\MayTinh\obj\Debug\MayTinh.exe
+C:\Users\Home\Desktop\13520473_NguyenThanhLuan_BaiThiTH\MayTinh\obj\Debug\MayTinh.pdb
+D:\Nguyễn Thành Luân\Đồ án\Năm 2\LTTQ\13520473_NguyenThanhLuan_BaiThiTH\MayTinh\bin\Debug\MayTinh.exe.config
+D:\Nguyễn Thành Luân\Đồ án\Năm 2\LTTQ\13520473_NguyenThanhLuan_BaiThiTH\MayTinh\obj\Debug\MayTinh.exe
+D:\Nguyễn Thành Luân\Đồ án\Năm 2\LTTQ\13520473_NguyenThanhLuan_BaiThiTH\MayTinh\obj\Debug\MayTinh.pdb
+D:\ThanhLuan\Doan\Năm 2\LTTQ\13520473_NguyenThanhLuan_BaiThiTH\MayTinh\bin\Debug\MayTinh.exe.config
+D:\ThanhLuan\Doan\Năm 2\LTTQ\13520473_NguyenThanhLuan_BaiThiTH\MayTinh\obj\Debug\MayTinh.exe
+D:\ThanhLuan\Doan\Năm 2\LTTQ\13520473_NguyenThanhLuan_BaiThiTH\MayTinh\obj\Debug\MayTinh.pdb
+D:\ThanhLuan\Doan\Năm 2\LTTQ\13520473_NguyenThanhLuan_BaiThiTH\MayTinh\bin\Debug\MayTinh.exe
+D:\ThanhLuan\Doan\Năm 2\LTTQ\13520473_NguyenThanhLuan_BaiThiTH\MayTinh\bin\Debug\MayTinh.pdb
+D:\ThanhLuan\Doan\Năm 2\LTTQ\13520473_NguyenThanhLuan_BaiThiTH\MayTinh\obj\Debug\MayTinh.csprojResolveAssemblyReference.cache
+D:\ThanhLuan\Doan\Năm 2\LTTQ\13520473_NguyenThanhLuan_BaiThiTH\MayTinh\obj\Debug\MayTinh.Form1.resources
+D:\ThanhLuan\Doan\Năm 2\LTTQ\13520473_NguyenThanhLuan_BaiThiTH\MayTinh\obj\Debug\MayTinh.Properties.Resources.resources
+D:\ThanhLuan\Doan\Năm 2\LTTQ\13520473_NguyenThanhLuan_BaiThiTH\MayTinh\obj\Debug\MayTinh.csproj.GenerateResource.Cache
+D:\Calculator_HauTo\Calculator_HauTo\MayTinh\bin\Debug\MayTinh.exe.config
+D:\Calculator_HauTo\Calculator_HauTo\MayTinh\bin\Debug\MayTinh.exe
+D:\Calculator_HauTo\Calculator_HauTo\MayTinh\bin\Debug\MayTinh.pdb
+D:\Calculator_HauTo\Calculator_HauTo\MayTinh\obj\Debug\MayTinh.csprojAssemblyReference.cache
+D:\Calculator_HauTo\Calculator_HauTo\MayTinh\obj\Debug\MayTinh.Form1.resources
+D:\Calculator_HauTo\Calculator_HauTo\MayTinh\obj\Debug\MayTinh.Properties.Resources.resources
+D:\Calculator_HauTo\Calculator_HauTo\MayTinh\obj\Debug\MayTinh.csproj.GenerateResource.cache
+D:\Calculator_HauTo\Calculator_HauTo\MayTinh\obj\Debug\MayTinh.csproj.CoreCompileInputs.cache
+D:\Calculator_HauTo\Calculator_HauTo\MayTinh\obj\Debug\MayTinh.exe
+D:\Calculator_HauTo\Calculator_HauTo\MayTinh\obj\Debug\MayTinh.pdb
+C:\Users\leman\Documents\GitHub\CauTrucDuLieu\Sources\Calculator_HauTo\MayTinh\bin\Debug\MayTinh.exe.config
+C:\Users\leman\Documents\GitHub\CauTrucDuLieu\Sources\Calculator_HauTo\MayTinh\bin\Debug\MayTinh.exe
+C:\Users\leman\Documents\GitHub\CauTrucDuLieu\Sources\Calculator_HauTo\MayTinh\bin\Debug\MayTinh.pdb
+C:\Users\leman\Documents\GitHub\CauTrucDuLieu\Sources\Calculator_HauTo\MayTinh\obj\Debug\MayTinh.csprojAssemblyReference.cache
+C:\Users\leman\Documents\GitHub\CauTrucDuLieu\Sources\Calculator_HauTo\MayTinh\obj\Debug\MayTinh.Form1.resources
+C:\Users\leman\Documents\GitHub\CauTrucDuLieu\Sources\Calculator_HauTo\MayTinh\obj\Debug\MayTinh.Properties.Resources.resources
+C:\Users\leman\Documents\GitHub\CauTrucDuLieu\Sources\Calculator_HauTo\MayTinh\obj\Debug\MayTinh.csproj.GenerateResource.cache
+C:\Users\leman\Documents\GitHub\CauTrucDuLieu\Sources\Calculator_HauTo\MayTinh\obj\Debug\MayTinh.csproj.CoreCompileInputs.cache
+C:\Users\leman\Documents\GitHub\CauTrucDuLieu\Sources\Calculator_HauTo\MayTinh\obj\Debug\MayTinh.exe
+C:\Users\leman\Documents\GitHub\CauTrucDuLieu\Sources\Calculator_HauTo\MayTinh\obj\Debug\MayTinh.pdb
