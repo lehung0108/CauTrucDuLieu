@@ -333,9 +333,6 @@ namespace MayTinh
                                 }
                                 ketQua = (b % a);
                                 break;
-                            case "^":
-                                ketQua = Math.Pow(b, a);
-                                break;
                         }
                         sh.Push(ketQua);
                         if (str1 != "(") 
