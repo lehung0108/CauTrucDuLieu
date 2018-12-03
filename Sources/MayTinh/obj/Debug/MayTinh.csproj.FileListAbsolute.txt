@@ -39,3 +39,13 @@ C:\Users\leman\Documents\GitHub\CauTrucDuLieu\Sources\Calculator_HauTo\MayTinh\o
 C:\Users\leman\Documents\GitHub\CauTrucDuLieu\Sources\Calculator_HauTo\MayTinh\obj\Debug\MayTinh.csproj.CoreCompileInputs.cache
 C:\Users\leman\Documents\GitHub\CauTrucDuLieu\Sources\Calculator_HauTo\MayTinh\obj\Debug\MayTinh.exe
 C:\Users\leman\Documents\GitHub\CauTrucDuLieu\Sources\Calculator_HauTo\MayTinh\obj\Debug\MayTinh.pdb
+C:\Users\leman\Documents\GitHub\CauTrucDuLieu\Sources\MayTinh\bin\Debug\MayTinh.exe.config
+C:\Users\leman\Documents\GitHub\CauTrucDuLieu\Sources\MayTinh\bin\Debug\MayTinh.exe
+C:\Users\leman\Documents\GitHub\CauTrucDuLieu\Sources\MayTinh\bin\Debug\MayTinh.pdb
+C:\Users\leman\Documents\GitHub\CauTrucDuLieu\Sources\MayTinh\obj\Debug\MayTinh.csprojAssemblyReference.cache
+C:\Users\leman\Documents\GitHub\CauTrucDuLieu\Sources\MayTinh\obj\Debug\MayTinh.Form1.resources
+C:\Users\leman\Documents\GitHub\CauTrucDuLieu\Sources\MayTinh\obj\Debug\MayTinh.Properties.Resources.resources
+C:\Users\leman\Documents\GitHub\CauTrucDuLieu\Sources\MayTinh\obj\Debug\MayTinh.csproj.GenerateResource.cache
+C:\Users\leman\Documents\GitHub\CauTrucDuLieu\Sources\MayTinh\obj\Debug\MayTinh.csproj.CoreCompileInputs.cache
+C:\Users\leman\Documents\GitHub\CauTrucDuLieu\Sources\MayTinh\obj\Debug\MayTinh.exe
+C:\Users\leman\Documents\GitHub\CauTrucDuLieu\Sources\MayTinh\obj\Debug\MayTinh.pdb

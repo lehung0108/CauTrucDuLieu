@@ -170,8 +170,6 @@ namespace MayTinh
                 if (manhinh.Text[i] >= '0' && manhinh.Text[i] <= '9')
                 {
                     j = i;
-                    //if (manhinh.Text[i + 1] == '(')
-                    //    st.Push("*"); 
                     while (manhinh.Text[i+1] >= '0' && manhinh.Text[i+1] <= '9' ||manhinh.Text[i+1] =='.' && manhinh.Text[i + 1] != ' ' && i+1 < manhinh.Text.Length)
                         i++;
                     string str = manhinh.Text.Substring(j, i + 1-j);   
