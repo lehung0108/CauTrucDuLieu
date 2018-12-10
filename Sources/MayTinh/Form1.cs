@@ -192,7 +192,7 @@ namespace MayTinh
                         str1 = st.Pop().ToString();
 
                         //nếu là các phép tính
-                        if (str1 == "+" || str1 == "-" || str1 == "*" || str1 == "/" || str1 == "%" || str1 == "^")
+                        if (str1 == "+" || str1 == "-" || str1 == "*" || str1 == "/" || str1 == "%" )
                         {
                             a = double.Parse((sh.Pop().ToString()));
                             b = double.Parse((sh.Pop().ToString()));
@@ -221,9 +221,7 @@ namespace MayTinh
                                     }
                                     ketQua = (b % a);
                                     break;
-                                case "^":
-                                    ketQua = Math.Pow(b, a);
-                                    break;
+
                             }
                             sh.Push(ketQua);
                         }
